@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  creationTimestamp: "2022-09-24T22:53:05Z"
+  name: hasura
+  namespace: default
+  resourceVersion: "43421"
+  uid: 0d597e3b-566a-4cd1-b8b2-5662b026ce15
+type: Opaque
+  username: YWRtaW4=
+  passwd: MWYyZDFlMmU2N2Rm 
+  HASURA_TEST: VEVTVF9TRUNSRVQK
